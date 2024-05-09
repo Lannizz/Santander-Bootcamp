@@ -3,7 +3,7 @@
 Este documento apresenta um resumo dos comandos e conceitos básicos do Git e Github, ferramentas essenciais para versionamento de código e colaboração em projetos de software. 
 
 ---
-## 🐶 Git 
+## 🧬 Git 
 
 O Git é um Sistema de Versão Distribuído (SVD) que permite rastrear alterações em arquivos ao longo do tempo e colaborar com outros desenvolvedores em projetos de software. 
 
